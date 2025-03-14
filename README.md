@@ -48,18 +48,11 @@ The `Docs/` directory contains detailed explanations of the theoretical backgrou
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/vehicle-dynamics-models.git
+    git clone git@github.com:Eimolgon/Vehicle-Dynamics-ToolBox.git
     cd vehicle-dynamics-models
     ```
 
-2. Install the necessary dependencies. It's recommended to use a virtual environment:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate
-    pip install -r requirements.txt
-    ```
-
-3. Explore the models:
+2. Explore the models:
     - Navigate to the directory of the model you are interested in.
     - Run the simulation scripts or open the interactive notebooks.
 
